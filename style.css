@@ -7,7 +7,7 @@ html, body {
         margin: 0px;
         padding: 0px;
         /*background: linear-gradient(to bottom, rgb(15, 24, 29) 0%, rgb(13, 186, 230) 100%);*/
-        background: url(background.jpg) no-repeat center fixed;
+        background: url(background1.jpg) no-repeat center fixed;
         background-size: cover;
         font-family: 'Open Sans', sans-serif;
       }
